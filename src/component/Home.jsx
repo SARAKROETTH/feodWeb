@@ -9,7 +9,7 @@ function Home(){
     return(
         <>
             <Swiper/>
-            <h1 class="pt-serif-bold text-2xl mt-[30px]" >Our Management and Teams</h1>
+            <h1 class="pt-serif-bold text-2xl mt-[30px]" >Our Management and Teams </h1>
             <Dean/>
             <ViceDean/>
             
